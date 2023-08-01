@@ -1,0 +1,43 @@
+
+
+*  {
+  border: solid;
+  border-color: rgb(201, 255, 108);
+
+
+}
+
+h1 {
+color: rgb(242, 166, 67);
+padding: 30px;
+}
+h2{
+color:darkseagreen;
+}
+
+
+.grid{
+   background-color: #f0eb88;
+   display: flex;
+   flex-wrap:wrap;
+   justify-content:space-evenly;
+}
+
+.headers{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30 ;
+}
+
+a:link{
+    color: #e56c40;
+}
+
+a:visited{
+    color: #e22eec;
+}
+
+.menu {
+    margin-right: 20px;
+}
